@@ -1,4 +1,4 @@
-# CodeceptJS Mobile
+# CodeceptJS Api
 
 ## Requirements:
 + **Node: https://nodejs.org/es**
